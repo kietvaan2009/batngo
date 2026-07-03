@@ -1,12 +1,12 @@
 const FallingMess = [
   "Anh yêu em",
-  "Em là cả cuộc đời anh",
-  "Mãi mãi bên nhau",
-  "Có em mọi thứ đều tốt đẹp hơn",
-  "Em là cả vũ trụ của anh",
   "Cảm ơn em đã xuất hiện",
   "Trái tim anh thuộc về em",
   "Anh yêu em rất nhiều",
+  "Nhớ em",
+  "Thích em",
+  "Có em là đủ rồi"
+  "Có em là đủ rồi"
   "Em là niềm vui của anh",
   "Em là tất cả của anh",
   "Anh yêu em vô cùng",
